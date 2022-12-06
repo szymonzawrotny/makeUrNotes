@@ -1,0 +1,1 @@
+No w wielkim skrócie aplikacja do robienia wszelakich notatek. Raczej będzie służyć tylko mojemu użytkowi
